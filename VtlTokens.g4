@@ -1,6 +1,6 @@
 lexer grammar VtlTokens;
   ASSIGN            : ':=';
-  MEMBERSHIP		    : '#';
+  MEMBERSHIP        : '#';
   EVAL              : 'eval';
   PUT               : 'put';
   IF                : 'if';
