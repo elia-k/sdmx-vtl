@@ -158,7 +158,6 @@ lexer grammar VtlTokens;
   ANTECEDENTVARIABLES			    : 'antecedentvariables=';
   VARIABLE						        : 'variable=';
   VALUEDOMAIN					        : 'valuedomain=';
-  MEMBERSHIP_ALT				      : '.';
   ALTER_DATASET					      : 'alterDataset';
   CREATE_FUNCTION				      : 'createFunction';
   LTRIM							          : 'ltrim';
